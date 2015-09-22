@@ -1,0 +1,33 @@
+{
+  "name": "ZGraph",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start --singleRun"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qvazar/ZGraph.git"
+  },
+  "author": "",
+  "license": "Artistic-2.0",
+  "bugs": {
+    "url": "https://github.com/Qvazar/ZGraph/issues"
+  },
+  "homepage": "https://github.com/Qvazar/ZGraph",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-babel-preprocessor": "^5.2.2",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-ie-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6"
+  }
+}
